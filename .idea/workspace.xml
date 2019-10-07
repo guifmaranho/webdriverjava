@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a608b678-81b8-45a4-bdc9-1f808588b0e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="33" />
+    <option name="y" value="9" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectId" id="1P3ntcSEA50cHdzedqhPBzmqZRX" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loadshark_intialtest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.InformacoesUsuarioTest">
+    <configuration name="InformacoesUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriverjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.InformacoesUsuarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InformacoesUsuarioTest.removerUmContatodeUmUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriverjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.InformacoesUsuarioTest" />
+      <option name="METHOD_NAME" value="removerUmContatodeUmUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googleSearchScreenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriverjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.googleSearchScreenshot" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googleSearchScreenshot.obterPrintPesquisaGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriverjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.googleSearchScreenshot" />
+      <option name="METHOD_NAME" value="obterPrintPesquisaGoogle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googleSearchScreenshot.setup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriverjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.googleSearchScreenshot" />
+      <option name="METHOD_NAME" value="setup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InformacoesUsuarioTest" />
+        <item itemvalue="JUnit.googleSearchScreenshot" />
+        <item itemvalue="JUnit.googleSearchScreenshot.obterPrintPesquisaGoogle" />
+        <item itemvalue="JUnit.googleSearchScreenshot.setup" />
+        <item itemvalue="JUnit.InformacoesUsuarioTest.removerUmContatodeUmUsuario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a608b678-81b8-45a4-bdc9-1f808588b0e3" name="Default Changelist" comment="" />
+      <created>1558641418353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558641418353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="googleSearchScreenshot_obterPrintPesquisaGoogle - 2019.05.28 at 17h 48m 15s.xml">
+      <configuration name="googleSearchScreenshot.obterPrintPesquisaGoogle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot - 2019.05.28 at 17h 49m 18s.xml">
+      <configuration name="googleSearchScreenshot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot_obterPrintPesquisaGoogle - 2019.05.28 at 17h 52m 08s.xml">
+      <configuration name="googleSearchScreenshot.obterPrintPesquisaGoogle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot_obterPrintPesquisaGoogle - 2019.05.28 at 17h 57m 14s.xml">
+      <configuration name="googleSearchScreenshot.obterPrintPesquisaGoogle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot - 2019.05.29 at 10h 53m 05s.xml">
+      <configuration name="googleSearchScreenshot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot - 2019.05.29 at 11h 04m 46s.xml">
+      <configuration name="googleSearchScreenshot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot - 2019.05.29 at 13h 36m 15s.xml">
+      <configuration name="googleSearchScreenshot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="googleSearchScreenshot - 2019.05.29 at 14h 16m 15s.xml">
+      <configuration name="googleSearchScreenshot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InformacoesUsuarioTest - 2019.06.11 at 15h 23m 59s.xml">
+      <configuration name="InformacoesUsuarioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InformacoesUsuarioTest - 2019.06.11 at 15h 25m 49s.xml">
+      <configuration name="InformacoesUsuarioTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
