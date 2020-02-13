@@ -22,8 +22,8 @@ import suporte.Screenshot;
 
 import java.util.concurrent.TimeUnit;
 
-@RunWith(DataDrivenTestRunner)
-@DataLoader(filePaths = "InformacoesUsuarioTest.csv")
+//@RunWith(DataDrivenTestRunner)
+//@DataLoader(filePaths = "InformacoesUsuarioTest.csv")
 
 public class InformacoesUsuarioTest {
     private WebDriver navegador;
@@ -34,7 +34,7 @@ public class InformacoesUsuarioTest {
     @Before
     public void setup() {
         //Abrindo o navegador (must have)
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gui\\Documents\\automation_tools\\automation_drivers\\chromedriver.exe");     //driver do browser (chrome)
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gui\\IdeaProjects\\webdriverjava\\drivers\\CHR\\chromedriver_v79.exe");     //driver do browser (chrome)
         navegador = new ChromeDriver();
         navegador.manage().window().maximize();     //maximizar a tela
         navegador.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);      //espera para carregar todos os elementos
@@ -127,9 +127,9 @@ public class InformacoesUsuarioTest {
     @After
     public void tearDown(){
         //Fechar o navegador
-        navegador.quit();
+        //navegador.quit();
 
         //Fechar apenas a aba
-//        navegador.close();
+        //navegador.close();
     }
 }
