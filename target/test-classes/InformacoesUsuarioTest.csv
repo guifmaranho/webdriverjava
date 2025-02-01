@@ -1,8 +1,0 @@
-testAdicionarUmaInformacaoAdicionaldoUsuario,tipo,contato,mensagem
-																																												,Phone,+5511123987123,Your contact has been added!
-																																												,Phone,+test21,Your contact has been added!
-																																												,Phone,+teste31,Your contact has been added!
-																																												,E-mail,emailteste1,Your contact has been added!
-
-removerUmContatoDeUmUsuario,telefone,mensagem
-                           ,+teste31,mensagem

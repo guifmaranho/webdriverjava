@@ -27,10 +27,11 @@ public class googleSearchScreenshot {
         //Abrindo o navegador em modo headless
         ChromeOptions semcabeca = new ChromeOptions();  //instância com options
         semcabeca.addArguments("--headless");   //opção headless do chrome driver
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gui\\Desktop\\automation_drivers\\chromedriver.exe"); //driver do chrome
-        navegador = new ChromeDriver(semcabeca);    //() opção do driver para abrir em headless
+        //System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gui\\Desktop\\automation_drivers\\chromedriver.exe"); //driver do chrome
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gui\\Documents\\automation_tools\\automation_drivers\\chromedriver_v87.exe"); //driver do chrome
+        //navegador = new ChromeDriver(semcabeca);    //() opção do driver para abrir em headless
 
-        navegador.manage().window().maximize();     //maximizar a tela
+        //navegador.manage().window().maximize();     //maximizar a tela
         navegador.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS); //espera para carregar todos elementos
 
         //Acessar o site
@@ -64,6 +65,6 @@ public class googleSearchScreenshot {
     @After
     public void finalizar(){
         //Fechar o navegador
-        navegador.quit();
+        //navegador.quit();
     }
 }
